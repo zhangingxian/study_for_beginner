@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/yuan/Desktop/test/study_for_beginner
+    -- src/array.cpp will be compiled to bin/array
+    -- src/main.cpp will be compiled to bin/main
+    -- src/study.cpp will be compiled to bin/study
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/yuan/Desktop/test/study_for_beginner/cmake-build-debug

@@ -1,0 +1,5 @@
+/Users/yuan/Desktop/test/study_for_beginner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yuan/Desktop/test/study_for_beginner/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yuan/Desktop/test/study_for_beginner/cmake-build-debug/CMakeFiles/study.dir
+/Users/yuan/Desktop/test/study_for_beginner/cmake-build-debug/CMakeFiles/main.dir
+/Users/yuan/Desktop/test/study_for_beginner/cmake-build-debug/CMakeFiles/array.dir
