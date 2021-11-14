@@ -6,7 +6,8 @@ using namespace std;
 
 int main()
 {
-    int a[20];
-    a[2]=2;
-    cout<<a[2];
+    int arr[1];
+    arr[0]=1;
+    cout<< arr[0]<<endl;
+    cout<<"hello world";
 }
